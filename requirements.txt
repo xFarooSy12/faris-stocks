@@ -1,0 +1,7 @@
+# Versions this app was tested with (Python 3.11 - 3.13)
+streamlit==1.66.0
+yfinance==1.7.0
+plotly==7.1.0
+pandas==3.0.5
+requests
+pytest
